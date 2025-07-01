@@ -26,6 +26,6 @@ Datasets diambil dari URL:
    install.packages("ggplot2")
 🧑‍💻 Penulis
 [Yoga Pratama]
-📧 Email: yp170090@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/yoga-pratama-923202349/
-🐱 GitHub: https://github.com/Yongsjasjos
+- 📧 Email: yp170090@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/yoga-pratama-923202349/
+- 🐱 GitHub: https://github.com/Yongsjasjos
