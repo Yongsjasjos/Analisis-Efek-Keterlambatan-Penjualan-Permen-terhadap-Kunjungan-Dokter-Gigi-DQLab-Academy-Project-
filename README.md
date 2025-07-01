@@ -24,3 +24,8 @@ Datasets diambil dari URL:
 3. Install `ggplot2` jika belum ada:  
    ```R
    install.packages("ggplot2")
+🧑‍💻 Penulis
+[Yoga Pratama]
+📧 Email: yp170090@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/yoga-pratama-923202349/
+🐱 GitHub: https://github.com/Yongsjasjos
